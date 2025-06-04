@@ -52,3 +52,9 @@ Make sure you have Java installed. Then follow these steps in your terminal:
 ```bash
 javac FileName.java    # Compile the program
 java FileName          # Run the program (without .java)
+
+📞 Contact Me
+💼 Himanshu Thakor
+📧 Email: himanshuthakor3584@gmail.com
+📱 Phone: +91-989804208
+🔗 LinkedIn: linkedin.com/in/himanshu-thakor 
