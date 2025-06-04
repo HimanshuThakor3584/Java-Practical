@@ -49,12 +49,15 @@ This repository contains 5 core Java practical programs focused on object-orient
 
 Make sure you have Java installed. Then follow these steps in your terminal:
 
-```bash
+bash
 javac FileName.java    # Compile the program
 java FileName          # Run the program (without .java)
 
-📞 Contact Me
+------
+
+
+## 📞 Contact Me
 💼 Himanshu Thakor
 📧 Email: himanshuthakor3584@gmail.com
-📱 Phone: +91-989804208
+📱 Phone: +91-9898044208
 🔗 LinkedIn: linkedin.com/in/himanshu-thakor 
