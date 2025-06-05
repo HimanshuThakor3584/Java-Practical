@@ -59,5 +59,4 @@ java FileName          # Run the program (without .java)
 ## 📞 Contact Me
 💼 Himanshu Thakor
 📧 Email: himanshuthakor3584@gmail.com
-📱 Phone: +91-9898044208
 🔗 LinkedIn: linkedin.com/in/himanshu-thakor 
